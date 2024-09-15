@@ -8,7 +8,7 @@ To create software so haunted, it makes the Exorcist look like a comedy. We're n
 
 ## 🔮🧟 Upcoming Projects (a.k.a. Digital Doomsday Devices)
 
-### 1. "FacePlant" - The Social Media Platform 📱☠️
+### 1. "Pillaites" - The Social Media Platform 📱☠️
 
 Because what the world needs is another place for students to watch their social lives disintegrate in real-time. Features include:
 
