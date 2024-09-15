@@ -12,24 +12,24 @@ To create software so haunted, it makes the Exorcist look like a comedy. We're n
 
 Because what the world needs is another place for students to watch their social lives disintegrate in real-time. Features include:
 
-- "Panic Button": Instantly changes your screen to a lecture video when your crush walks by. Goodbye, dignity!
-- "Exam Countdown Timer": Watch in horror as your future crumbles before your eyes
-- "Grade Predictor": Now with 99.9% more accuracy in crushing your spirits
-- "Parent Detector": Automatically hides all evidence of your college "extracurriculars"
+- `Panic Button`: Instantly changes your screen to a lecture video when your crush walks by. Goodbye, dignity!
+- `Exam Countdown Timer`: Watch in horror as your future crumbles before your eyes
+- `Grade Predictor`: Now with 99.9% more accuracy in crushing your spirits
+- `Parent Detector`: Automatically hides all evidence of your college "extracurriculars"
 
 ### 2. "GradeLate" - The Learning Management System 📚🕳️
 
 Where your assignments go to decompose and your academic aspirations are buried in an unmarked grave.
 
-- "Deadline Roulette": Randomly changes due dates because who needs sleep anyway?
-- "Plagiarism Roulette": For when you're feeling lucky and ethically flexible
+- `Deadline Roulette`: Randomly changes due dates because who needs sleep anyway?
+- `Plagiarism Roulette`: For when you're feeling lucky and ethically flexible
 
 ### 3. "CaffeineOverflow" - The Coffee Ordering App ☕️😵
 
 Because nothing says "higher education" like hallucinating from sleep deprivation at 4 AM.
 
-- "Insomnia Mode": Automatically doubles your caffeine intake during finals week
-- "Cardiac Alert": Notifies your emergency contact when your heart rate matches hummingbird wings
+- `Insomnia Mode`: Automatically doubles your caffeine intake during finals week
+- `Cardiac Alert`: Notifies your emergency contact when your heart rate matches hummingbird wings
 
 ### 4. "DegreesOfRegret" - The Major Selector 🎲🔍
 
